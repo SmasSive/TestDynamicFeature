@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Test DF</string>
+  <string name="title_df_test">Dynamic Feature Title</string>
+  <string name="title_dfnotinstant">Not Instant</string>
+</resources>
